@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "productivyApp", "productivyApp\productivyApp.csproj", "{349997B8-F0B4-4462-B4BD-47CFD871F54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349997B8-F0B4-4462-B4BD-47CFD871F54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349997B8-F0B4-4462-B4BD-47CFD871F54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349997B8-F0B4-4462-B4BD-47CFD871F54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349997B8-F0B4-4462-B4BD-47CFD871F54F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A976C00-A410-4DE0-8E62-DF77D77EC8E1}
+	EndGlobalSection
+EndGlobal
